@@ -3,7 +3,6 @@ import { LoanAmount, Container, PaybackTime, Table, Label, TableWrapper, Cost } 
 import { useLoan } from './useLoan';
 
 export const LoanCalculator = () => {
-  // {month: number; year: number; deduction: number; interest: number, remaindingLoan: number}
   const [
     setLoanAmount,
     loanAmount,
@@ -15,8 +14,6 @@ export const LoanCalculator = () => {
     interestRate,
     paybackPlan,
   ] = useLoan();
-
-  console.log(paybackPlan);
 
   const columns = [
     {
@@ -41,7 +38,6 @@ export const LoanCalculator = () => {
       type: 'currency',
     },
   ];
-
   return (
     <Container>
       <Label htmlFor="payback">
@@ -49,8 +45,14 @@ export const LoanCalculator = () => {
         <PaybackTime
           id="payback"
           type="number"
+          max="100"
           value={paybackTime}
-          onChange={(e) => setPaybackTime(parseInt(e.target.value))}
+          onChange={(e) => {
+            const value = parseInt(e.target.value);
+            if (value <= 100) {
+              setPaybackTime(parseInt(e.target.value));
+            }
+          }}
         />
       </Label>
       <Label htmlFor="amount">

@@ -1,0 +1,3255 @@
+{
+  "payments": {
+    "0": {
+      "id": "0",
+      "month": 0,
+      "year": 0,
+      "deduction": "0",
+      "interest": "0",
+      "remaindingLoan": 100000000,
+      "formattedRemaindingLoan": "1 000 000 NOK"
+    },
+    "1": {
+      "id": "1",
+      "month": 1,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 917 NOK",
+      "remaindingLoan": 99722222,
+      "formattedRemaindingLoan": "997 222 NOK"
+    },
+    "2": {
+      "id": "2",
+      "month": 2,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 909 NOK",
+      "remaindingLoan": 99444444,
+      "formattedRemaindingLoan": "994 444 NOK"
+    },
+    "3": {
+      "id": "3",
+      "month": 3,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 900 NOK",
+      "remaindingLoan": 99166666,
+      "formattedRemaindingLoan": "991 667 NOK"
+    },
+    "4": {
+      "id": "4",
+      "month": 4,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 892 NOK",
+      "remaindingLoan": 98888888,
+      "formattedRemaindingLoan": "988 889 NOK"
+    },
+    "5": {
+      "id": "5",
+      "month": 5,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 884 NOK",
+      "remaindingLoan": 98611110,
+      "formattedRemaindingLoan": "986 111 NOK"
+    },
+    "6": {
+      "id": "6",
+      "month": 6,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 876 NOK",
+      "remaindingLoan": 98333332,
+      "formattedRemaindingLoan": "983 333 NOK"
+    },
+    "7": {
+      "id": "7",
+      "month": 7,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 868 NOK",
+      "remaindingLoan": 98055554,
+      "formattedRemaindingLoan": "980 556 NOK"
+    },
+    "8": {
+      "id": "8",
+      "month": 8,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 860 NOK",
+      "remaindingLoan": 97777776,
+      "formattedRemaindingLoan": "977 778 NOK"
+    },
+    "9": {
+      "id": "9",
+      "month": 9,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 852 NOK",
+      "remaindingLoan": 97499998,
+      "formattedRemaindingLoan": "975 000 NOK"
+    },
+    "10": {
+      "id": "10",
+      "month": 10,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 844 NOK",
+      "remaindingLoan": 97222220,
+      "formattedRemaindingLoan": "972 222 NOK"
+    },
+    "11": {
+      "id": "11",
+      "month": 11,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 836 NOK",
+      "remaindingLoan": 96944442,
+      "formattedRemaindingLoan": "969 444 NOK"
+    },
+    "12": {
+      "id": "12",
+      "month": 12,
+      "year": 0,
+      "deduction": "2 778 NOK",
+      "interest": "2 828 NOK",
+      "remaindingLoan": 96666664,
+      "formattedRemaindingLoan": "966 667 NOK"
+    },
+    "13": {
+      "id": "13",
+      "month": 13,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 819 NOK",
+      "remaindingLoan": 96388886,
+      "formattedRemaindingLoan": "963 889 NOK"
+    },
+    "14": {
+      "id": "14",
+      "month": 14,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 811 NOK",
+      "remaindingLoan": 96111108,
+      "formattedRemaindingLoan": "961 111 NOK"
+    },
+    "15": {
+      "id": "15",
+      "month": 15,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 803 NOK",
+      "remaindingLoan": 95833330,
+      "formattedRemaindingLoan": "958 333 NOK"
+    },
+    "16": {
+      "id": "16",
+      "month": 16,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 795 NOK",
+      "remaindingLoan": 95555552,
+      "formattedRemaindingLoan": "955 556 NOK"
+    },
+    "17": {
+      "id": "17",
+      "month": 17,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 787 NOK",
+      "remaindingLoan": 95277774,
+      "formattedRemaindingLoan": "952 778 NOK"
+    },
+    "18": {
+      "id": "18",
+      "month": 18,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 779 NOK",
+      "remaindingLoan": 94999996,
+      "formattedRemaindingLoan": "950 000 NOK"
+    },
+    "19": {
+      "id": "19",
+      "month": 19,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 771 NOK",
+      "remaindingLoan": 94722218,
+      "formattedRemaindingLoan": "947 222 NOK"
+    },
+    "20": {
+      "id": "20",
+      "month": 20,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 763 NOK",
+      "remaindingLoan": 94444440,
+      "formattedRemaindingLoan": "944 444 NOK"
+    },
+    "21": {
+      "id": "21",
+      "month": 21,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 755 NOK",
+      "remaindingLoan": 94166662,
+      "formattedRemaindingLoan": "941 667 NOK"
+    },
+    "22": {
+      "id": "22",
+      "month": 22,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 747 NOK",
+      "remaindingLoan": 93888884,
+      "formattedRemaindingLoan": "938 889 NOK"
+    },
+    "23": {
+      "id": "23",
+      "month": 23,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 738 NOK",
+      "remaindingLoan": 93611106,
+      "formattedRemaindingLoan": "936 111 NOK"
+    },
+    "24": {
+      "id": "24",
+      "month": 24,
+      "year": 1,
+      "deduction": "2 778 NOK",
+      "interest": "2 730 NOK",
+      "remaindingLoan": 93333328,
+      "formattedRemaindingLoan": "933 333 NOK"
+    },
+    "25": {
+      "id": "25",
+      "month": 25,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 722 NOK",
+      "remaindingLoan": 93055550,
+      "formattedRemaindingLoan": "930 556 NOK"
+    },
+    "26": {
+      "id": "26",
+      "month": 26,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 714 NOK",
+      "remaindingLoan": 92777772,
+      "formattedRemaindingLoan": "927 778 NOK"
+    },
+    "27": {
+      "id": "27",
+      "month": 27,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 706 NOK",
+      "remaindingLoan": 92499994,
+      "formattedRemaindingLoan": "925 000 NOK"
+    },
+    "28": {
+      "id": "28",
+      "month": 28,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 698 NOK",
+      "remaindingLoan": 92222216,
+      "formattedRemaindingLoan": "922 222 NOK"
+    },
+    "29": {
+      "id": "29",
+      "month": 29,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 690 NOK",
+      "remaindingLoan": 91944438,
+      "formattedRemaindingLoan": "919 444 NOK"
+    },
+    "30": {
+      "id": "30",
+      "month": 30,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 682 NOK",
+      "remaindingLoan": 91666660,
+      "formattedRemaindingLoan": "916 667 NOK"
+    },
+    "31": {
+      "id": "31",
+      "month": 31,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 674 NOK",
+      "remaindingLoan": 91388882,
+      "formattedRemaindingLoan": "913 889 NOK"
+    },
+    "32": {
+      "id": "32",
+      "month": 32,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 666 NOK",
+      "remaindingLoan": 91111104,
+      "formattedRemaindingLoan": "911 111 NOK"
+    },
+    "33": {
+      "id": "33",
+      "month": 33,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 657 NOK",
+      "remaindingLoan": 90833326,
+      "formattedRemaindingLoan": "908 333 NOK"
+    },
+    "34": {
+      "id": "34",
+      "month": 34,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 649 NOK",
+      "remaindingLoan": 90555548,
+      "formattedRemaindingLoan": "905 555 NOK"
+    },
+    "35": {
+      "id": "35",
+      "month": 35,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 641 NOK",
+      "remaindingLoan": 90277770,
+      "formattedRemaindingLoan": "902 778 NOK"
+    },
+    "36": {
+      "id": "36",
+      "month": 36,
+      "year": 2,
+      "deduction": "2 778 NOK",
+      "interest": "2 633 NOK",
+      "remaindingLoan": 89999992,
+      "formattedRemaindingLoan": "900 000 NOK"
+    },
+    "37": {
+      "id": "37",
+      "month": 37,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 625 NOK",
+      "remaindingLoan": 89722214,
+      "formattedRemaindingLoan": "897 222 NOK"
+    },
+    "38": {
+      "id": "38",
+      "month": 38,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 617 NOK",
+      "remaindingLoan": 89444436,
+      "formattedRemaindingLoan": "894 444 NOK"
+    },
+    "39": {
+      "id": "39",
+      "month": 39,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 609 NOK",
+      "remaindingLoan": 89166658,
+      "formattedRemaindingLoan": "891 667 NOK"
+    },
+    "40": {
+      "id": "40",
+      "month": 40,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 601 NOK",
+      "remaindingLoan": 88888880,
+      "formattedRemaindingLoan": "888 889 NOK"
+    },
+    "41": {
+      "id": "41",
+      "month": 41,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 593 NOK",
+      "remaindingLoan": 88611102,
+      "formattedRemaindingLoan": "886 111 NOK"
+    },
+    "42": {
+      "id": "42",
+      "month": 42,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 584 NOK",
+      "remaindingLoan": 88333324,
+      "formattedRemaindingLoan": "883 333 NOK"
+    },
+    "43": {
+      "id": "43",
+      "month": 43,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 576 NOK",
+      "remaindingLoan": 88055546,
+      "formattedRemaindingLoan": "880 555 NOK"
+    },
+    "44": {
+      "id": "44",
+      "month": 44,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 568 NOK",
+      "remaindingLoan": 87777768,
+      "formattedRemaindingLoan": "877 778 NOK"
+    },
+    "45": {
+      "id": "45",
+      "month": 45,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 560 NOK",
+      "remaindingLoan": 87499990,
+      "formattedRemaindingLoan": "875 000 NOK"
+    },
+    "46": {
+      "id": "46",
+      "month": 46,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 552 NOK",
+      "remaindingLoan": 87222212,
+      "formattedRemaindingLoan": "872 222 NOK"
+    },
+    "47": {
+      "id": "47",
+      "month": 47,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 544 NOK",
+      "remaindingLoan": 86944434,
+      "formattedRemaindingLoan": "869 444 NOK"
+    },
+    "48": {
+      "id": "48",
+      "month": 48,
+      "year": 3,
+      "deduction": "2 778 NOK",
+      "interest": "2 536 NOK",
+      "remaindingLoan": 86666656,
+      "formattedRemaindingLoan": "866 667 NOK"
+    },
+    "49": {
+      "id": "49",
+      "month": 49,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 528 NOK",
+      "remaindingLoan": 86388878,
+      "formattedRemaindingLoan": "863 889 NOK"
+    },
+    "50": {
+      "id": "50",
+      "month": 50,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 520 NOK",
+      "remaindingLoan": 86111100,
+      "formattedRemaindingLoan": "861 111 NOK"
+    },
+    "51": {
+      "id": "51",
+      "month": 51,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 512 NOK",
+      "remaindingLoan": 85833322,
+      "formattedRemaindingLoan": "858 333 NOK"
+    },
+    "52": {
+      "id": "52",
+      "month": 52,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 503 NOK",
+      "remaindingLoan": 85555544,
+      "formattedRemaindingLoan": "855 555 NOK"
+    },
+    "53": {
+      "id": "53",
+      "month": 53,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 495 NOK",
+      "remaindingLoan": 85277766,
+      "formattedRemaindingLoan": "852 778 NOK"
+    },
+    "54": {
+      "id": "54",
+      "month": 54,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 487 NOK",
+      "remaindingLoan": 84999988,
+      "formattedRemaindingLoan": "850 000 NOK"
+    },
+    "55": {
+      "id": "55",
+      "month": 55,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 479 NOK",
+      "remaindingLoan": 84722210,
+      "formattedRemaindingLoan": "847 222 NOK"
+    },
+    "56": {
+      "id": "56",
+      "month": 56,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 471 NOK",
+      "remaindingLoan": 84444432,
+      "formattedRemaindingLoan": "844 444 NOK"
+    },
+    "57": {
+      "id": "57",
+      "month": 57,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 463 NOK",
+      "remaindingLoan": 84166654,
+      "formattedRemaindingLoan": "841 667 NOK"
+    },
+    "58": {
+      "id": "58",
+      "month": 58,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 455 NOK",
+      "remaindingLoan": 83888876,
+      "formattedRemaindingLoan": "838 889 NOK"
+    },
+    "59": {
+      "id": "59",
+      "month": 59,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 447 NOK",
+      "remaindingLoan": 83611098,
+      "formattedRemaindingLoan": "836 111 NOK"
+    },
+    "60": {
+      "id": "60",
+      "month": 60,
+      "year": 4,
+      "deduction": "2 778 NOK",
+      "interest": "2 439 NOK",
+      "remaindingLoan": 83333320,
+      "formattedRemaindingLoan": "833 333 NOK"
+    },
+    "61": {
+      "id": "61",
+      "month": 61,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 431 NOK",
+      "remaindingLoan": 83055542,
+      "formattedRemaindingLoan": "830 555 NOK"
+    },
+    "62": {
+      "id": "62",
+      "month": 62,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 422 NOK",
+      "remaindingLoan": 82777764,
+      "formattedRemaindingLoan": "827 778 NOK"
+    },
+    "63": {
+      "id": "63",
+      "month": 63,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 414 NOK",
+      "remaindingLoan": 82499986,
+      "formattedRemaindingLoan": "825 000 NOK"
+    },
+    "64": {
+      "id": "64",
+      "month": 64,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 406 NOK",
+      "remaindingLoan": 82222208,
+      "formattedRemaindingLoan": "822 222 NOK"
+    },
+    "65": {
+      "id": "65",
+      "month": 65,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 398 NOK",
+      "remaindingLoan": 81944430,
+      "formattedRemaindingLoan": "819 444 NOK"
+    },
+    "66": {
+      "id": "66",
+      "month": 66,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 390 NOK",
+      "remaindingLoan": 81666652,
+      "formattedRemaindingLoan": "816 667 NOK"
+    },
+    "67": {
+      "id": "67",
+      "month": 67,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 382 NOK",
+      "remaindingLoan": 81388874,
+      "formattedRemaindingLoan": "813 889 NOK"
+    },
+    "68": {
+      "id": "68",
+      "month": 68,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 374 NOK",
+      "remaindingLoan": 81111096,
+      "formattedRemaindingLoan": "811 111 NOK"
+    },
+    "69": {
+      "id": "69",
+      "month": 69,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 366 NOK",
+      "remaindingLoan": 80833318,
+      "formattedRemaindingLoan": "808 333 NOK"
+    },
+    "70": {
+      "id": "70",
+      "month": 70,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 358 NOK",
+      "remaindingLoan": 80555540,
+      "formattedRemaindingLoan": "805 555 NOK"
+    },
+    "71": {
+      "id": "71",
+      "month": 71,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 350 NOK",
+      "remaindingLoan": 80277762,
+      "formattedRemaindingLoan": "802 778 NOK"
+    },
+    "72": {
+      "id": "72",
+      "month": 72,
+      "year": 5,
+      "deduction": "2 778 NOK",
+      "interest": "2 341 NOK",
+      "remaindingLoan": 79999984,
+      "formattedRemaindingLoan": "800 000 NOK"
+    },
+    "73": {
+      "id": "73",
+      "month": 73,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 333 NOK",
+      "remaindingLoan": 79722206,
+      "formattedRemaindingLoan": "797 222 NOK"
+    },
+    "74": {
+      "id": "74",
+      "month": 74,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 325 NOK",
+      "remaindingLoan": 79444428,
+      "formattedRemaindingLoan": "794 444 NOK"
+    },
+    "75": {
+      "id": "75",
+      "month": 75,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 317 NOK",
+      "remaindingLoan": 79166650,
+      "formattedRemaindingLoan": "791 667 NOK"
+    },
+    "76": {
+      "id": "76",
+      "month": 76,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 309 NOK",
+      "remaindingLoan": 78888872,
+      "formattedRemaindingLoan": "788 889 NOK"
+    },
+    "77": {
+      "id": "77",
+      "month": 77,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 301 NOK",
+      "remaindingLoan": 78611094,
+      "formattedRemaindingLoan": "786 111 NOK"
+    },
+    "78": {
+      "id": "78",
+      "month": 78,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 293 NOK",
+      "remaindingLoan": 78333316,
+      "formattedRemaindingLoan": "783 333 NOK"
+    },
+    "79": {
+      "id": "79",
+      "month": 79,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 285 NOK",
+      "remaindingLoan": 78055538,
+      "formattedRemaindingLoan": "780 555 NOK"
+    },
+    "80": {
+      "id": "80",
+      "month": 80,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 277 NOK",
+      "remaindingLoan": 77777760,
+      "formattedRemaindingLoan": "777 778 NOK"
+    },
+    "81": {
+      "id": "81",
+      "month": 81,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 269 NOK",
+      "remaindingLoan": 77499982,
+      "formattedRemaindingLoan": "775 000 NOK"
+    },
+    "82": {
+      "id": "82",
+      "month": 82,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 260 NOK",
+      "remaindingLoan": 77222204,
+      "formattedRemaindingLoan": "772 222 NOK"
+    },
+    "83": {
+      "id": "83",
+      "month": 83,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 252 NOK",
+      "remaindingLoan": 76944426,
+      "formattedRemaindingLoan": "769 444 NOK"
+    },
+    "84": {
+      "id": "84",
+      "month": 84,
+      "year": 6,
+      "deduction": "2 778 NOK",
+      "interest": "2 244 NOK",
+      "remaindingLoan": 76666648,
+      "formattedRemaindingLoan": "766 666 NOK"
+    },
+    "85": {
+      "id": "85",
+      "month": 85,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 236 NOK",
+      "remaindingLoan": 76388870,
+      "formattedRemaindingLoan": "763 889 NOK"
+    },
+    "86": {
+      "id": "86",
+      "month": 86,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 228 NOK",
+      "remaindingLoan": 76111092,
+      "formattedRemaindingLoan": "761 111 NOK"
+    },
+    "87": {
+      "id": "87",
+      "month": 87,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 220 NOK",
+      "remaindingLoan": 75833314,
+      "formattedRemaindingLoan": "758 333 NOK"
+    },
+    "88": {
+      "id": "88",
+      "month": 88,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 212 NOK",
+      "remaindingLoan": 75555536,
+      "formattedRemaindingLoan": "755 555 NOK"
+    },
+    "89": {
+      "id": "89",
+      "month": 89,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 204 NOK",
+      "remaindingLoan": 75277758,
+      "formattedRemaindingLoan": "752 778 NOK"
+    },
+    "90": {
+      "id": "90",
+      "month": 90,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 196 NOK",
+      "remaindingLoan": 74999980,
+      "formattedRemaindingLoan": "750 000 NOK"
+    },
+    "91": {
+      "id": "91",
+      "month": 91,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 187 NOK",
+      "remaindingLoan": 74722202,
+      "formattedRemaindingLoan": "747 222 NOK"
+    },
+    "92": {
+      "id": "92",
+      "month": 92,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 179 NOK",
+      "remaindingLoan": 74444424,
+      "formattedRemaindingLoan": "744 444 NOK"
+    },
+    "93": {
+      "id": "93",
+      "month": 93,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 171 NOK",
+      "remaindingLoan": 74166646,
+      "formattedRemaindingLoan": "741 666 NOK"
+    },
+    "94": {
+      "id": "94",
+      "month": 94,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 163 NOK",
+      "remaindingLoan": 73888868,
+      "formattedRemaindingLoan": "738 889 NOK"
+    },
+    "95": {
+      "id": "95",
+      "month": 95,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 155 NOK",
+      "remaindingLoan": 73611090,
+      "formattedRemaindingLoan": "736 111 NOK"
+    },
+    "96": {
+      "id": "96",
+      "month": 96,
+      "year": 7,
+      "deduction": "2 778 NOK",
+      "interest": "2 147 NOK",
+      "remaindingLoan": 73333312,
+      "formattedRemaindingLoan": "733 333 NOK"
+    },
+    "97": {
+      "id": "97",
+      "month": 97,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 139 NOK",
+      "remaindingLoan": 73055534,
+      "formattedRemaindingLoan": "730 555 NOK"
+    },
+    "98": {
+      "id": "98",
+      "month": 98,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 131 NOK",
+      "remaindingLoan": 72777756,
+      "formattedRemaindingLoan": "727 778 NOK"
+    },
+    "99": {
+      "id": "99",
+      "month": 99,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 123 NOK",
+      "remaindingLoan": 72499978,
+      "formattedRemaindingLoan": "725 000 NOK"
+    },
+    "100": {
+      "id": "100",
+      "month": 100,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 115 NOK",
+      "remaindingLoan": 72222200,
+      "formattedRemaindingLoan": "722 222 NOK"
+    },
+    "101": {
+      "id": "101",
+      "month": 101,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 106 NOK",
+      "remaindingLoan": 71944422,
+      "formattedRemaindingLoan": "719 444 NOK"
+    },
+    "102": {
+      "id": "102",
+      "month": 102,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 098 NOK",
+      "remaindingLoan": 71666644,
+      "formattedRemaindingLoan": "716 666 NOK"
+    },
+    "103": {
+      "id": "103",
+      "month": 103,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 090 NOK",
+      "remaindingLoan": 71388866,
+      "formattedRemaindingLoan": "713 889 NOK"
+    },
+    "104": {
+      "id": "104",
+      "month": 104,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 082 NOK",
+      "remaindingLoan": 71111088,
+      "formattedRemaindingLoan": "711 111 NOK"
+    },
+    "105": {
+      "id": "105",
+      "month": 105,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 074 NOK",
+      "remaindingLoan": 70833310,
+      "formattedRemaindingLoan": "708 333 NOK"
+    },
+    "106": {
+      "id": "106",
+      "month": 106,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 066 NOK",
+      "remaindingLoan": 70555532,
+      "formattedRemaindingLoan": "705 555 NOK"
+    },
+    "107": {
+      "id": "107",
+      "month": 107,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 058 NOK",
+      "remaindingLoan": 70277754,
+      "formattedRemaindingLoan": "702 778 NOK"
+    },
+    "108": {
+      "id": "108",
+      "month": 108,
+      "year": 8,
+      "deduction": "2 778 NOK",
+      "interest": "2 050 NOK",
+      "remaindingLoan": 69999976,
+      "formattedRemaindingLoan": "700 000 NOK"
+    },
+    "109": {
+      "id": "109",
+      "month": 109,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "2 042 NOK",
+      "remaindingLoan": 69722198,
+      "formattedRemaindingLoan": "697 222 NOK"
+    },
+    "110": {
+      "id": "110",
+      "month": 110,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "2 034 NOK",
+      "remaindingLoan": 69444420,
+      "formattedRemaindingLoan": "694 444 NOK"
+    },
+    "111": {
+      "id": "111",
+      "month": 111,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "2 025 NOK",
+      "remaindingLoan": 69166642,
+      "formattedRemaindingLoan": "691 666 NOK"
+    },
+    "112": {
+      "id": "112",
+      "month": 112,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "2 017 NOK",
+      "remaindingLoan": 68888864,
+      "formattedRemaindingLoan": "688 889 NOK"
+    },
+    "113": {
+      "id": "113",
+      "month": 113,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "2 009 NOK",
+      "remaindingLoan": 68611086,
+      "formattedRemaindingLoan": "686 111 NOK"
+    },
+    "114": {
+      "id": "114",
+      "month": 114,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "2 001 NOK",
+      "remaindingLoan": 68333308,
+      "formattedRemaindingLoan": "683 333 NOK"
+    },
+    "115": {
+      "id": "115",
+      "month": 115,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "1 993 NOK",
+      "remaindingLoan": 68055530,
+      "formattedRemaindingLoan": "680 555 NOK"
+    },
+    "116": {
+      "id": "116",
+      "month": 116,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "1 985 NOK",
+      "remaindingLoan": 67777752,
+      "formattedRemaindingLoan": "677 778 NOK"
+    },
+    "117": {
+      "id": "117",
+      "month": 117,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "1 977 NOK",
+      "remaindingLoan": 67499974,
+      "formattedRemaindingLoan": "675 000 NOK"
+    },
+    "118": {
+      "id": "118",
+      "month": 118,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "1 969 NOK",
+      "remaindingLoan": 67222196,
+      "formattedRemaindingLoan": "672 222 NOK"
+    },
+    "119": {
+      "id": "119",
+      "month": 119,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "1 961 NOK",
+      "remaindingLoan": 66944418,
+      "formattedRemaindingLoan": "669 444 NOK"
+    },
+    "120": {
+      "id": "120",
+      "month": 120,
+      "year": 9,
+      "deduction": "2 778 NOK",
+      "interest": "1 953 NOK",
+      "remaindingLoan": 66666640,
+      "formattedRemaindingLoan": "666 666 NOK"
+    },
+    "121": {
+      "id": "121",
+      "month": 121,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 944 NOK",
+      "remaindingLoan": 66388862,
+      "formattedRemaindingLoan": "663 889 NOK"
+    },
+    "122": {
+      "id": "122",
+      "month": 122,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 936 NOK",
+      "remaindingLoan": 66111084,
+      "formattedRemaindingLoan": "661 111 NOK"
+    },
+    "123": {
+      "id": "123",
+      "month": 123,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 928 NOK",
+      "remaindingLoan": 65833306,
+      "formattedRemaindingLoan": "658 333 NOK"
+    },
+    "124": {
+      "id": "124",
+      "month": 124,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 920 NOK",
+      "remaindingLoan": 65555528,
+      "formattedRemaindingLoan": "655 555 NOK"
+    },
+    "125": {
+      "id": "125",
+      "month": 125,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 912 NOK",
+      "remaindingLoan": 65277750,
+      "formattedRemaindingLoan": "652 778 NOK"
+    },
+    "126": {
+      "id": "126",
+      "month": 126,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 904 NOK",
+      "remaindingLoan": 64999972,
+      "formattedRemaindingLoan": "650 000 NOK"
+    },
+    "127": {
+      "id": "127",
+      "month": 127,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 896 NOK",
+      "remaindingLoan": 64722194,
+      "formattedRemaindingLoan": "647 222 NOK"
+    },
+    "128": {
+      "id": "128",
+      "month": 128,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 888 NOK",
+      "remaindingLoan": 64444416,
+      "formattedRemaindingLoan": "644 444 NOK"
+    },
+    "129": {
+      "id": "129",
+      "month": 129,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 880 NOK",
+      "remaindingLoan": 64166638,
+      "formattedRemaindingLoan": "641 666 NOK"
+    },
+    "130": {
+      "id": "130",
+      "month": 130,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 872 NOK",
+      "remaindingLoan": 63888860,
+      "formattedRemaindingLoan": "638 889 NOK"
+    },
+    "131": {
+      "id": "131",
+      "month": 131,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 863 NOK",
+      "remaindingLoan": 63611082,
+      "formattedRemaindingLoan": "636 111 NOK"
+    },
+    "132": {
+      "id": "132",
+      "month": 132,
+      "year": 10,
+      "deduction": "2 778 NOK",
+      "interest": "1 855 NOK",
+      "remaindingLoan": 63333304,
+      "formattedRemaindingLoan": "633 333 NOK"
+    },
+    "133": {
+      "id": "133",
+      "month": 133,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 847 NOK",
+      "remaindingLoan": 63055526,
+      "formattedRemaindingLoan": "630 555 NOK"
+    },
+    "134": {
+      "id": "134",
+      "month": 134,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 839 NOK",
+      "remaindingLoan": 62777748,
+      "formattedRemaindingLoan": "627 777 NOK"
+    },
+    "135": {
+      "id": "135",
+      "month": 135,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 831 NOK",
+      "remaindingLoan": 62499970,
+      "formattedRemaindingLoan": "625 000 NOK"
+    },
+    "136": {
+      "id": "136",
+      "month": 136,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 823 NOK",
+      "remaindingLoan": 62222192,
+      "formattedRemaindingLoan": "622 222 NOK"
+    },
+    "137": {
+      "id": "137",
+      "month": 137,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 815 NOK",
+      "remaindingLoan": 61944414,
+      "formattedRemaindingLoan": "619 444 NOK"
+    },
+    "138": {
+      "id": "138",
+      "month": 138,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 807 NOK",
+      "remaindingLoan": 61666636,
+      "formattedRemaindingLoan": "616 666 NOK"
+    },
+    "139": {
+      "id": "139",
+      "month": 139,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 799 NOK",
+      "remaindingLoan": 61388858,
+      "formattedRemaindingLoan": "613 889 NOK"
+    },
+    "140": {
+      "id": "140",
+      "month": 140,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 791 NOK",
+      "remaindingLoan": 61111080,
+      "formattedRemaindingLoan": "611 111 NOK"
+    },
+    "141": {
+      "id": "141",
+      "month": 141,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 782 NOK",
+      "remaindingLoan": 60833302,
+      "formattedRemaindingLoan": "608 333 NOK"
+    },
+    "142": {
+      "id": "142",
+      "month": 142,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 774 NOK",
+      "remaindingLoan": 60555524,
+      "formattedRemaindingLoan": "605 555 NOK"
+    },
+    "143": {
+      "id": "143",
+      "month": 143,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 766 NOK",
+      "remaindingLoan": 60277746,
+      "formattedRemaindingLoan": "602 777 NOK"
+    },
+    "144": {
+      "id": "144",
+      "month": 144,
+      "year": 11,
+      "deduction": "2 778 NOK",
+      "interest": "1 758 NOK",
+      "remaindingLoan": 59999968,
+      "formattedRemaindingLoan": "600 000 NOK"
+    },
+    "145": {
+      "id": "145",
+      "month": 145,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 750 NOK",
+      "remaindingLoan": 59722190,
+      "formattedRemaindingLoan": "597 222 NOK"
+    },
+    "146": {
+      "id": "146",
+      "month": 146,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 742 NOK",
+      "remaindingLoan": 59444412,
+      "formattedRemaindingLoan": "594 444 NOK"
+    },
+    "147": {
+      "id": "147",
+      "month": 147,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 734 NOK",
+      "remaindingLoan": 59166634,
+      "formattedRemaindingLoan": "591 666 NOK"
+    },
+    "148": {
+      "id": "148",
+      "month": 148,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 726 NOK",
+      "remaindingLoan": 58888856,
+      "formattedRemaindingLoan": "588 889 NOK"
+    },
+    "149": {
+      "id": "149",
+      "month": 149,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 718 NOK",
+      "remaindingLoan": 58611078,
+      "formattedRemaindingLoan": "586 111 NOK"
+    },
+    "150": {
+      "id": "150",
+      "month": 150,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 709 NOK",
+      "remaindingLoan": 58333300,
+      "formattedRemaindingLoan": "583 333 NOK"
+    },
+    "151": {
+      "id": "151",
+      "month": 151,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 701 NOK",
+      "remaindingLoan": 58055522,
+      "formattedRemaindingLoan": "580 555 NOK"
+    },
+    "152": {
+      "id": "152",
+      "month": 152,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 693 NOK",
+      "remaindingLoan": 57777744,
+      "formattedRemaindingLoan": "577 777 NOK"
+    },
+    "153": {
+      "id": "153",
+      "month": 153,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 685 NOK",
+      "remaindingLoan": 57499966,
+      "formattedRemaindingLoan": "575 000 NOK"
+    },
+    "154": {
+      "id": "154",
+      "month": 154,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 677 NOK",
+      "remaindingLoan": 57222188,
+      "formattedRemaindingLoan": "572 222 NOK"
+    },
+    "155": {
+      "id": "155",
+      "month": 155,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 669 NOK",
+      "remaindingLoan": 56944410,
+      "formattedRemaindingLoan": "569 444 NOK"
+    },
+    "156": {
+      "id": "156",
+      "month": 156,
+      "year": 12,
+      "deduction": "2 778 NOK",
+      "interest": "1 661 NOK",
+      "remaindingLoan": 56666632,
+      "formattedRemaindingLoan": "566 666 NOK"
+    },
+    "157": {
+      "id": "157",
+      "month": 157,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 653 NOK",
+      "remaindingLoan": 56388854,
+      "formattedRemaindingLoan": "563 889 NOK"
+    },
+    "158": {
+      "id": "158",
+      "month": 158,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 645 NOK",
+      "remaindingLoan": 56111076,
+      "formattedRemaindingLoan": "561 111 NOK"
+    },
+    "159": {
+      "id": "159",
+      "month": 159,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 637 NOK",
+      "remaindingLoan": 55833298,
+      "formattedRemaindingLoan": "558 333 NOK"
+    },
+    "160": {
+      "id": "160",
+      "month": 160,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 628 NOK",
+      "remaindingLoan": 55555520,
+      "formattedRemaindingLoan": "555 555 NOK"
+    },
+    "161": {
+      "id": "161",
+      "month": 161,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 620 NOK",
+      "remaindingLoan": 55277742,
+      "formattedRemaindingLoan": "552 777 NOK"
+    },
+    "162": {
+      "id": "162",
+      "month": 162,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 612 NOK",
+      "remaindingLoan": 54999964,
+      "formattedRemaindingLoan": "550 000 NOK"
+    },
+    "163": {
+      "id": "163",
+      "month": 163,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 604 NOK",
+      "remaindingLoan": 54722186,
+      "formattedRemaindingLoan": "547 222 NOK"
+    },
+    "164": {
+      "id": "164",
+      "month": 164,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 596 NOK",
+      "remaindingLoan": 54444408,
+      "formattedRemaindingLoan": "544 444 NOK"
+    },
+    "165": {
+      "id": "165",
+      "month": 165,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 588 NOK",
+      "remaindingLoan": 54166630,
+      "formattedRemaindingLoan": "541 666 NOK"
+    },
+    "166": {
+      "id": "166",
+      "month": 166,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 580 NOK",
+      "remaindingLoan": 53888852,
+      "formattedRemaindingLoan": "538 889 NOK"
+    },
+    "167": {
+      "id": "167",
+      "month": 167,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 572 NOK",
+      "remaindingLoan": 53611074,
+      "formattedRemaindingLoan": "536 111 NOK"
+    },
+    "168": {
+      "id": "168",
+      "month": 168,
+      "year": 13,
+      "deduction": "2 778 NOK",
+      "interest": "1 564 NOK",
+      "remaindingLoan": 53333296,
+      "formattedRemaindingLoan": "533 333 NOK"
+    },
+    "169": {
+      "id": "169",
+      "month": 169,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 556 NOK",
+      "remaindingLoan": 53055518,
+      "formattedRemaindingLoan": "530 555 NOK"
+    },
+    "170": {
+      "id": "170",
+      "month": 170,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 547 NOK",
+      "remaindingLoan": 52777740,
+      "formattedRemaindingLoan": "527 777 NOK"
+    },
+    "171": {
+      "id": "171",
+      "month": 171,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 539 NOK",
+      "remaindingLoan": 52499962,
+      "formattedRemaindingLoan": "525 000 NOK"
+    },
+    "172": {
+      "id": "172",
+      "month": 172,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 531 NOK",
+      "remaindingLoan": 52222184,
+      "formattedRemaindingLoan": "522 222 NOK"
+    },
+    "173": {
+      "id": "173",
+      "month": 173,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 523 NOK",
+      "remaindingLoan": 51944406,
+      "formattedRemaindingLoan": "519 444 NOK"
+    },
+    "174": {
+      "id": "174",
+      "month": 174,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 515 NOK",
+      "remaindingLoan": 51666628,
+      "formattedRemaindingLoan": "516 666 NOK"
+    },
+    "175": {
+      "id": "175",
+      "month": 175,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 507 NOK",
+      "remaindingLoan": 51388850,
+      "formattedRemaindingLoan": "513 889 NOK"
+    },
+    "176": {
+      "id": "176",
+      "month": 176,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 499 NOK",
+      "remaindingLoan": 51111072,
+      "formattedRemaindingLoan": "511 111 NOK"
+    },
+    "177": {
+      "id": "177",
+      "month": 177,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 491 NOK",
+      "remaindingLoan": 50833294,
+      "formattedRemaindingLoan": "508 333 NOK"
+    },
+    "178": {
+      "id": "178",
+      "month": 178,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 483 NOK",
+      "remaindingLoan": 50555516,
+      "formattedRemaindingLoan": "505 555 NOK"
+    },
+    "179": {
+      "id": "179",
+      "month": 179,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 475 NOK",
+      "remaindingLoan": 50277738,
+      "formattedRemaindingLoan": "502 777 NOK"
+    },
+    "180": {
+      "id": "180",
+      "month": 180,
+      "year": 14,
+      "deduction": "2 778 NOK",
+      "interest": "1 466 NOK",
+      "remaindingLoan": 49999960,
+      "formattedRemaindingLoan": "500 000 NOK"
+    },
+    "181": {
+      "id": "181",
+      "month": 181,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 458 NOK",
+      "remaindingLoan": 49722182,
+      "formattedRemaindingLoan": "497 222 NOK"
+    },
+    "182": {
+      "id": "182",
+      "month": 182,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 450 NOK",
+      "remaindingLoan": 49444404,
+      "formattedRemaindingLoan": "494 444 NOK"
+    },
+    "183": {
+      "id": "183",
+      "month": 183,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 442 NOK",
+      "remaindingLoan": 49166626,
+      "formattedRemaindingLoan": "491 666 NOK"
+    },
+    "184": {
+      "id": "184",
+      "month": 184,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 434 NOK",
+      "remaindingLoan": 48888848,
+      "formattedRemaindingLoan": "488 888 NOK"
+    },
+    "185": {
+      "id": "185",
+      "month": 185,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 426 NOK",
+      "remaindingLoan": 48611070,
+      "formattedRemaindingLoan": "486 111 NOK"
+    },
+    "186": {
+      "id": "186",
+      "month": 186,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 418 NOK",
+      "remaindingLoan": 48333292,
+      "formattedRemaindingLoan": "483 333 NOK"
+    },
+    "187": {
+      "id": "187",
+      "month": 187,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 410 NOK",
+      "remaindingLoan": 48055514,
+      "formattedRemaindingLoan": "480 555 NOK"
+    },
+    "188": {
+      "id": "188",
+      "month": 188,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 402 NOK",
+      "remaindingLoan": 47777736,
+      "formattedRemaindingLoan": "477 777 NOK"
+    },
+    "189": {
+      "id": "189",
+      "month": 189,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 394 NOK",
+      "remaindingLoan": 47499958,
+      "formattedRemaindingLoan": "475 000 NOK"
+    },
+    "190": {
+      "id": "190",
+      "month": 190,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 385 NOK",
+      "remaindingLoan": 47222180,
+      "formattedRemaindingLoan": "472 222 NOK"
+    },
+    "191": {
+      "id": "191",
+      "month": 191,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 377 NOK",
+      "remaindingLoan": 46944402,
+      "formattedRemaindingLoan": "469 444 NOK"
+    },
+    "192": {
+      "id": "192",
+      "month": 192,
+      "year": 15,
+      "deduction": "2 778 NOK",
+      "interest": "1 369 NOK",
+      "remaindingLoan": 46666624,
+      "formattedRemaindingLoan": "466 666 NOK"
+    },
+    "193": {
+      "id": "193",
+      "month": 193,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 361 NOK",
+      "remaindingLoan": 46388846,
+      "formattedRemaindingLoan": "463 888 NOK"
+    },
+    "194": {
+      "id": "194",
+      "month": 194,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 353 NOK",
+      "remaindingLoan": 46111068,
+      "formattedRemaindingLoan": "461 111 NOK"
+    },
+    "195": {
+      "id": "195",
+      "month": 195,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 345 NOK",
+      "remaindingLoan": 45833290,
+      "formattedRemaindingLoan": "458 333 NOK"
+    },
+    "196": {
+      "id": "196",
+      "month": 196,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 337 NOK",
+      "remaindingLoan": 45555512,
+      "formattedRemaindingLoan": "455 555 NOK"
+    },
+    "197": {
+      "id": "197",
+      "month": 197,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 329 NOK",
+      "remaindingLoan": 45277734,
+      "formattedRemaindingLoan": "452 777 NOK"
+    },
+    "198": {
+      "id": "198",
+      "month": 198,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 321 NOK",
+      "remaindingLoan": 44999956,
+      "formattedRemaindingLoan": "450 000 NOK"
+    },
+    "199": {
+      "id": "199",
+      "month": 199,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 312 NOK",
+      "remaindingLoan": 44722178,
+      "formattedRemaindingLoan": "447 222 NOK"
+    },
+    "200": {
+      "id": "200",
+      "month": 200,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 304 NOK",
+      "remaindingLoan": 44444400,
+      "formattedRemaindingLoan": "444 444 NOK"
+    },
+    "201": {
+      "id": "201",
+      "month": 201,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 296 NOK",
+      "remaindingLoan": 44166622,
+      "formattedRemaindingLoan": "441 666 NOK"
+    },
+    "202": {
+      "id": "202",
+      "month": 202,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 288 NOK",
+      "remaindingLoan": 43888844,
+      "formattedRemaindingLoan": "438 888 NOK"
+    },
+    "203": {
+      "id": "203",
+      "month": 203,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 280 NOK",
+      "remaindingLoan": 43611066,
+      "formattedRemaindingLoan": "436 111 NOK"
+    },
+    "204": {
+      "id": "204",
+      "month": 204,
+      "year": 16,
+      "deduction": "2 778 NOK",
+      "interest": "1 272 NOK",
+      "remaindingLoan": 43333288,
+      "formattedRemaindingLoan": "433 333 NOK"
+    },
+    "205": {
+      "id": "205",
+      "month": 205,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 264 NOK",
+      "remaindingLoan": 43055510,
+      "formattedRemaindingLoan": "430 555 NOK"
+    },
+    "206": {
+      "id": "206",
+      "month": 206,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 256 NOK",
+      "remaindingLoan": 42777732,
+      "formattedRemaindingLoan": "427 777 NOK"
+    },
+    "207": {
+      "id": "207",
+      "month": 207,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 248 NOK",
+      "remaindingLoan": 42499954,
+      "formattedRemaindingLoan": "425 000 NOK"
+    },
+    "208": {
+      "id": "208",
+      "month": 208,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 240 NOK",
+      "remaindingLoan": 42222176,
+      "formattedRemaindingLoan": "422 222 NOK"
+    },
+    "209": {
+      "id": "209",
+      "month": 209,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 231 NOK",
+      "remaindingLoan": 41944398,
+      "formattedRemaindingLoan": "419 444 NOK"
+    },
+    "210": {
+      "id": "210",
+      "month": 210,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 223 NOK",
+      "remaindingLoan": 41666620,
+      "formattedRemaindingLoan": "416 666 NOK"
+    },
+    "211": {
+      "id": "211",
+      "month": 211,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 215 NOK",
+      "remaindingLoan": 41388842,
+      "formattedRemaindingLoan": "413 888 NOK"
+    },
+    "212": {
+      "id": "212",
+      "month": 212,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 207 NOK",
+      "remaindingLoan": 41111064,
+      "formattedRemaindingLoan": "411 111 NOK"
+    },
+    "213": {
+      "id": "213",
+      "month": 213,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 199 NOK",
+      "remaindingLoan": 40833286,
+      "formattedRemaindingLoan": "408 333 NOK"
+    },
+    "214": {
+      "id": "214",
+      "month": 214,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 191 NOK",
+      "remaindingLoan": 40555508,
+      "formattedRemaindingLoan": "405 555 NOK"
+    },
+    "215": {
+      "id": "215",
+      "month": 215,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 183 NOK",
+      "remaindingLoan": 40277730,
+      "formattedRemaindingLoan": "402 777 NOK"
+    },
+    "216": {
+      "id": "216",
+      "month": 216,
+      "year": 17,
+      "deduction": "2 778 NOK",
+      "interest": "1 175 NOK",
+      "remaindingLoan": 39999952,
+      "formattedRemaindingLoan": "400 000 NOK"
+    },
+    "217": {
+      "id": "217",
+      "month": 217,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 167 NOK",
+      "remaindingLoan": 39722174,
+      "formattedRemaindingLoan": "397 222 NOK"
+    },
+    "218": {
+      "id": "218",
+      "month": 218,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 159 NOK",
+      "remaindingLoan": 39444396,
+      "formattedRemaindingLoan": "394 444 NOK"
+    },
+    "219": {
+      "id": "219",
+      "month": 219,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 150 NOK",
+      "remaindingLoan": 39166618,
+      "formattedRemaindingLoan": "391 666 NOK"
+    },
+    "220": {
+      "id": "220",
+      "month": 220,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 142 NOK",
+      "remaindingLoan": 38888840,
+      "formattedRemaindingLoan": "388 888 NOK"
+    },
+    "221": {
+      "id": "221",
+      "month": 221,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 134 NOK",
+      "remaindingLoan": 38611062,
+      "formattedRemaindingLoan": "386 111 NOK"
+    },
+    "222": {
+      "id": "222",
+      "month": 222,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 126 NOK",
+      "remaindingLoan": 38333284,
+      "formattedRemaindingLoan": "383 333 NOK"
+    },
+    "223": {
+      "id": "223",
+      "month": 223,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 118 NOK",
+      "remaindingLoan": 38055506,
+      "formattedRemaindingLoan": "380 555 NOK"
+    },
+    "224": {
+      "id": "224",
+      "month": 224,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 110 NOK",
+      "remaindingLoan": 37777728,
+      "formattedRemaindingLoan": "377 777 NOK"
+    },
+    "225": {
+      "id": "225",
+      "month": 225,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 102 NOK",
+      "remaindingLoan": 37499950,
+      "formattedRemaindingLoan": "375 000 NOK"
+    },
+    "226": {
+      "id": "226",
+      "month": 226,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 094 NOK",
+      "remaindingLoan": 37222172,
+      "formattedRemaindingLoan": "372 222 NOK"
+    },
+    "227": {
+      "id": "227",
+      "month": 227,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 086 NOK",
+      "remaindingLoan": 36944394,
+      "formattedRemaindingLoan": "369 444 NOK"
+    },
+    "228": {
+      "id": "228",
+      "month": 228,
+      "year": 18,
+      "deduction": "2 778 NOK",
+      "interest": "1 078 NOK",
+      "remaindingLoan": 36666616,
+      "formattedRemaindingLoan": "366 666 NOK"
+    },
+    "229": {
+      "id": "229",
+      "month": 229,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "1 069 NOK",
+      "remaindingLoan": 36388838,
+      "formattedRemaindingLoan": "363 888 NOK"
+    },
+    "230": {
+      "id": "230",
+      "month": 230,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "1 061 NOK",
+      "remaindingLoan": 36111060,
+      "formattedRemaindingLoan": "361 111 NOK"
+    },
+    "231": {
+      "id": "231",
+      "month": 231,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "1 053 NOK",
+      "remaindingLoan": 35833282,
+      "formattedRemaindingLoan": "358 333 NOK"
+    },
+    "232": {
+      "id": "232",
+      "month": 232,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "1 045 NOK",
+      "remaindingLoan": 35555504,
+      "formattedRemaindingLoan": "355 555 NOK"
+    },
+    "233": {
+      "id": "233",
+      "month": 233,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "1 037 NOK",
+      "remaindingLoan": 35277726,
+      "formattedRemaindingLoan": "352 777 NOK"
+    },
+    "234": {
+      "id": "234",
+      "month": 234,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "1 029 NOK",
+      "remaindingLoan": 34999948,
+      "formattedRemaindingLoan": "349 999 NOK"
+    },
+    "235": {
+      "id": "235",
+      "month": 235,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "1 021 NOK",
+      "remaindingLoan": 34722170,
+      "formattedRemaindingLoan": "347 222 NOK"
+    },
+    "236": {
+      "id": "236",
+      "month": 236,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "1 013 NOK",
+      "remaindingLoan": 34444392,
+      "formattedRemaindingLoan": "344 444 NOK"
+    },
+    "237": {
+      "id": "237",
+      "month": 237,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "1 005 NOK",
+      "remaindingLoan": 34166614,
+      "formattedRemaindingLoan": "341 666 NOK"
+    },
+    "238": {
+      "id": "238",
+      "month": 238,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "997 NOK",
+      "remaindingLoan": 33888836,
+      "formattedRemaindingLoan": "338 888 NOK"
+    },
+    "239": {
+      "id": "239",
+      "month": 239,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "988 NOK",
+      "remaindingLoan": 33611058,
+      "formattedRemaindingLoan": "336 111 NOK"
+    },
+    "240": {
+      "id": "240",
+      "month": 240,
+      "year": 19,
+      "deduction": "2 778 NOK",
+      "interest": "980 NOK",
+      "remaindingLoan": 33333280,
+      "formattedRemaindingLoan": "333 333 NOK"
+    },
+    "241": {
+      "id": "241",
+      "month": 241,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "972 NOK",
+      "remaindingLoan": 33055502,
+      "formattedRemaindingLoan": "330 555 NOK"
+    },
+    "242": {
+      "id": "242",
+      "month": 242,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "964 NOK",
+      "remaindingLoan": 32777724,
+      "formattedRemaindingLoan": "327 777 NOK"
+    },
+    "243": {
+      "id": "243",
+      "month": 243,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "956 NOK",
+      "remaindingLoan": 32499946,
+      "formattedRemaindingLoan": "324 999 NOK"
+    },
+    "244": {
+      "id": "244",
+      "month": 244,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "948 NOK",
+      "remaindingLoan": 32222168,
+      "formattedRemaindingLoan": "322 222 NOK"
+    },
+    "245": {
+      "id": "245",
+      "month": 245,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "940 NOK",
+      "remaindingLoan": 31944390,
+      "formattedRemaindingLoan": "319 444 NOK"
+    },
+    "246": {
+      "id": "246",
+      "month": 246,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "932 NOK",
+      "remaindingLoan": 31666612,
+      "formattedRemaindingLoan": "316 666 NOK"
+    },
+    "247": {
+      "id": "247",
+      "month": 247,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "924 NOK",
+      "remaindingLoan": 31388834,
+      "formattedRemaindingLoan": "313 888 NOK"
+    },
+    "248": {
+      "id": "248",
+      "month": 248,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "916 NOK",
+      "remaindingLoan": 31111056,
+      "formattedRemaindingLoan": "311 111 NOK"
+    },
+    "249": {
+      "id": "249",
+      "month": 249,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "907 NOK",
+      "remaindingLoan": 30833278,
+      "formattedRemaindingLoan": "308 333 NOK"
+    },
+    "250": {
+      "id": "250",
+      "month": 250,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "899 NOK",
+      "remaindingLoan": 30555500,
+      "formattedRemaindingLoan": "305 555 NOK"
+    },
+    "251": {
+      "id": "251",
+      "month": 251,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "891 NOK",
+      "remaindingLoan": 30277722,
+      "formattedRemaindingLoan": "302 777 NOK"
+    },
+    "252": {
+      "id": "252",
+      "month": 252,
+      "year": 20,
+      "deduction": "2 778 NOK",
+      "interest": "883 NOK",
+      "remaindingLoan": 29999944,
+      "formattedRemaindingLoan": "299 999 NOK"
+    },
+    "253": {
+      "id": "253",
+      "month": 253,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "875 NOK",
+      "remaindingLoan": 29722166,
+      "formattedRemaindingLoan": "297 222 NOK"
+    },
+    "254": {
+      "id": "254",
+      "month": 254,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "867 NOK",
+      "remaindingLoan": 29444388,
+      "formattedRemaindingLoan": "294 444 NOK"
+    },
+    "255": {
+      "id": "255",
+      "month": 255,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "859 NOK",
+      "remaindingLoan": 29166610,
+      "formattedRemaindingLoan": "291 666 NOK"
+    },
+    "256": {
+      "id": "256",
+      "month": 256,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "851 NOK",
+      "remaindingLoan": 28888832,
+      "formattedRemaindingLoan": "288 888 NOK"
+    },
+    "257": {
+      "id": "257",
+      "month": 257,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "843 NOK",
+      "remaindingLoan": 28611054,
+      "formattedRemaindingLoan": "286 111 NOK"
+    },
+    "258": {
+      "id": "258",
+      "month": 258,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "834 NOK",
+      "remaindingLoan": 28333276,
+      "formattedRemaindingLoan": "283 333 NOK"
+    },
+    "259": {
+      "id": "259",
+      "month": 259,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "826 NOK",
+      "remaindingLoan": 28055498,
+      "formattedRemaindingLoan": "280 555 NOK"
+    },
+    "260": {
+      "id": "260",
+      "month": 260,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "818 NOK",
+      "remaindingLoan": 27777720,
+      "formattedRemaindingLoan": "277 777 NOK"
+    },
+    "261": {
+      "id": "261",
+      "month": 261,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "810 NOK",
+      "remaindingLoan": 27499942,
+      "formattedRemaindingLoan": "274 999 NOK"
+    },
+    "262": {
+      "id": "262",
+      "month": 262,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "802 NOK",
+      "remaindingLoan": 27222164,
+      "formattedRemaindingLoan": "272 222 NOK"
+    },
+    "263": {
+      "id": "263",
+      "month": 263,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "794 NOK",
+      "remaindingLoan": 26944386,
+      "formattedRemaindingLoan": "269 444 NOK"
+    },
+    "264": {
+      "id": "264",
+      "month": 264,
+      "year": 21,
+      "deduction": "2 778 NOK",
+      "interest": "786 NOK",
+      "remaindingLoan": 26666608,
+      "formattedRemaindingLoan": "266 666 NOK"
+    },
+    "265": {
+      "id": "265",
+      "month": 265,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "778 NOK",
+      "remaindingLoan": 26388830,
+      "formattedRemaindingLoan": "263 888 NOK"
+    },
+    "266": {
+      "id": "266",
+      "month": 266,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "770 NOK",
+      "remaindingLoan": 26111052,
+      "formattedRemaindingLoan": "261 111 NOK"
+    },
+    "267": {
+      "id": "267",
+      "month": 267,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "762 NOK",
+      "remaindingLoan": 25833274,
+      "formattedRemaindingLoan": "258 333 NOK"
+    },
+    "268": {
+      "id": "268",
+      "month": 268,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "753 NOK",
+      "remaindingLoan": 25555496,
+      "formattedRemaindingLoan": "255 555 NOK"
+    },
+    "269": {
+      "id": "269",
+      "month": 269,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "745 NOK",
+      "remaindingLoan": 25277718,
+      "formattedRemaindingLoan": "252 777 NOK"
+    },
+    "270": {
+      "id": "270",
+      "month": 270,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "737 NOK",
+      "remaindingLoan": 24999940,
+      "formattedRemaindingLoan": "249 999 NOK"
+    },
+    "271": {
+      "id": "271",
+      "month": 271,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "729 NOK",
+      "remaindingLoan": 24722162,
+      "formattedRemaindingLoan": "247 222 NOK"
+    },
+    "272": {
+      "id": "272",
+      "month": 272,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "721 NOK",
+      "remaindingLoan": 24444384,
+      "formattedRemaindingLoan": "244 444 NOK"
+    },
+    "273": {
+      "id": "273",
+      "month": 273,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "713 NOK",
+      "remaindingLoan": 24166606,
+      "formattedRemaindingLoan": "241 666 NOK"
+    },
+    "274": {
+      "id": "274",
+      "month": 274,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "705 NOK",
+      "remaindingLoan": 23888828,
+      "formattedRemaindingLoan": "238 888 NOK"
+    },
+    "275": {
+      "id": "275",
+      "month": 275,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "697 NOK",
+      "remaindingLoan": 23611050,
+      "formattedRemaindingLoan": "236 111 NOK"
+    },
+    "276": {
+      "id": "276",
+      "month": 276,
+      "year": 22,
+      "deduction": "2 778 NOK",
+      "interest": "689 NOK",
+      "remaindingLoan": 23333272,
+      "formattedRemaindingLoan": "233 333 NOK"
+    },
+    "277": {
+      "id": "277",
+      "month": 277,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "681 NOK",
+      "remaindingLoan": 23055494,
+      "formattedRemaindingLoan": "230 555 NOK"
+    },
+    "278": {
+      "id": "278",
+      "month": 278,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "672 NOK",
+      "remaindingLoan": 22777716,
+      "formattedRemaindingLoan": "227 777 NOK"
+    },
+    "279": {
+      "id": "279",
+      "month": 279,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "664 NOK",
+      "remaindingLoan": 22499938,
+      "formattedRemaindingLoan": "224 999 NOK"
+    },
+    "280": {
+      "id": "280",
+      "month": 280,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "656 NOK",
+      "remaindingLoan": 22222160,
+      "formattedRemaindingLoan": "222 222 NOK"
+    },
+    "281": {
+      "id": "281",
+      "month": 281,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "648 NOK",
+      "remaindingLoan": 21944382,
+      "formattedRemaindingLoan": "219 444 NOK"
+    },
+    "282": {
+      "id": "282",
+      "month": 282,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "640 NOK",
+      "remaindingLoan": 21666604,
+      "formattedRemaindingLoan": "216 666 NOK"
+    },
+    "283": {
+      "id": "283",
+      "month": 283,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "632 NOK",
+      "remaindingLoan": 21388826,
+      "formattedRemaindingLoan": "213 888 NOK"
+    },
+    "284": {
+      "id": "284",
+      "month": 284,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "624 NOK",
+      "remaindingLoan": 21111048,
+      "formattedRemaindingLoan": "211 110 NOK"
+    },
+    "285": {
+      "id": "285",
+      "month": 285,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "616 NOK",
+      "remaindingLoan": 20833270,
+      "formattedRemaindingLoan": "208 333 NOK"
+    },
+    "286": {
+      "id": "286",
+      "month": 286,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "608 NOK",
+      "remaindingLoan": 20555492,
+      "formattedRemaindingLoan": "205 555 NOK"
+    },
+    "287": {
+      "id": "287",
+      "month": 287,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "600 NOK",
+      "remaindingLoan": 20277714,
+      "formattedRemaindingLoan": "202 777 NOK"
+    },
+    "288": {
+      "id": "288",
+      "month": 288,
+      "year": 23,
+      "deduction": "2 778 NOK",
+      "interest": "591 NOK",
+      "remaindingLoan": 19999936,
+      "formattedRemaindingLoan": "199 999 NOK"
+    },
+    "289": {
+      "id": "289",
+      "month": 289,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "583 NOK",
+      "remaindingLoan": 19722158,
+      "formattedRemaindingLoan": "197 222 NOK"
+    },
+    "290": {
+      "id": "290",
+      "month": 290,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "575 NOK",
+      "remaindingLoan": 19444380,
+      "formattedRemaindingLoan": "194 444 NOK"
+    },
+    "291": {
+      "id": "291",
+      "month": 291,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "567 NOK",
+      "remaindingLoan": 19166602,
+      "formattedRemaindingLoan": "191 666 NOK"
+    },
+    "292": {
+      "id": "292",
+      "month": 292,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "559 NOK",
+      "remaindingLoan": 18888824,
+      "formattedRemaindingLoan": "188 888 NOK"
+    },
+    "293": {
+      "id": "293",
+      "month": 293,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "551 NOK",
+      "remaindingLoan": 18611046,
+      "formattedRemaindingLoan": "186 110 NOK"
+    },
+    "294": {
+      "id": "294",
+      "month": 294,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "543 NOK",
+      "remaindingLoan": 18333268,
+      "formattedRemaindingLoan": "183 333 NOK"
+    },
+    "295": {
+      "id": "295",
+      "month": 295,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "535 NOK",
+      "remaindingLoan": 18055490,
+      "formattedRemaindingLoan": "180 555 NOK"
+    },
+    "296": {
+      "id": "296",
+      "month": 296,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "527 NOK",
+      "remaindingLoan": 17777712,
+      "formattedRemaindingLoan": "177 777 NOK"
+    },
+    "297": {
+      "id": "297",
+      "month": 297,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "519 NOK",
+      "remaindingLoan": 17499934,
+      "formattedRemaindingLoan": "174 999 NOK"
+    },
+    "298": {
+      "id": "298",
+      "month": 298,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "510 NOK",
+      "remaindingLoan": 17222156,
+      "formattedRemaindingLoan": "172 222 NOK"
+    },
+    "299": {
+      "id": "299",
+      "month": 299,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "502 NOK",
+      "remaindingLoan": 16944378,
+      "formattedRemaindingLoan": "169 444 NOK"
+    },
+    "300": {
+      "id": "300",
+      "month": 300,
+      "year": 24,
+      "deduction": "2 778 NOK",
+      "interest": "494 NOK",
+      "remaindingLoan": 16666600,
+      "formattedRemaindingLoan": "166 666 NOK"
+    },
+    "301": {
+      "id": "301",
+      "month": 301,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "486 NOK",
+      "remaindingLoan": 16388822,
+      "formattedRemaindingLoan": "163 888 NOK"
+    },
+    "302": {
+      "id": "302",
+      "month": 302,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "478 NOK",
+      "remaindingLoan": 16111044,
+      "formattedRemaindingLoan": "161 110 NOK"
+    },
+    "303": {
+      "id": "303",
+      "month": 303,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "470 NOK",
+      "remaindingLoan": 15833266,
+      "formattedRemaindingLoan": "158 333 NOK"
+    },
+    "304": {
+      "id": "304",
+      "month": 304,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "462 NOK",
+      "remaindingLoan": 15555488,
+      "formattedRemaindingLoan": "155 555 NOK"
+    },
+    "305": {
+      "id": "305",
+      "month": 305,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "454 NOK",
+      "remaindingLoan": 15277710,
+      "formattedRemaindingLoan": "152 777 NOK"
+    },
+    "306": {
+      "id": "306",
+      "month": 306,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "446 NOK",
+      "remaindingLoan": 14999932,
+      "formattedRemaindingLoan": "149 999 NOK"
+    },
+    "307": {
+      "id": "307",
+      "month": 307,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "437 NOK",
+      "remaindingLoan": 14722154,
+      "formattedRemaindingLoan": "147 222 NOK"
+    },
+    "308": {
+      "id": "308",
+      "month": 308,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "429 NOK",
+      "remaindingLoan": 14444376,
+      "formattedRemaindingLoan": "144 444 NOK"
+    },
+    "309": {
+      "id": "309",
+      "month": 309,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "421 NOK",
+      "remaindingLoan": 14166598,
+      "formattedRemaindingLoan": "141 666 NOK"
+    },
+    "310": {
+      "id": "310",
+      "month": 310,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "413 NOK",
+      "remaindingLoan": 13888820,
+      "formattedRemaindingLoan": "138 888 NOK"
+    },
+    "311": {
+      "id": "311",
+      "month": 311,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "405 NOK",
+      "remaindingLoan": 13611042,
+      "formattedRemaindingLoan": "136 110 NOK"
+    },
+    "312": {
+      "id": "312",
+      "month": 312,
+      "year": 25,
+      "deduction": "2 778 NOK",
+      "interest": "397 NOK",
+      "remaindingLoan": 13333264,
+      "formattedRemaindingLoan": "133 333 NOK"
+    },
+    "313": {
+      "id": "313",
+      "month": 313,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "389 NOK",
+      "remaindingLoan": 13055486,
+      "formattedRemaindingLoan": "130 555 NOK"
+    },
+    "314": {
+      "id": "314",
+      "month": 314,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "381 NOK",
+      "remaindingLoan": 12777708,
+      "formattedRemaindingLoan": "127 777 NOK"
+    },
+    "315": {
+      "id": "315",
+      "month": 315,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "373 NOK",
+      "remaindingLoan": 12499930,
+      "formattedRemaindingLoan": "124 999 NOK"
+    },
+    "316": {
+      "id": "316",
+      "month": 316,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "365 NOK",
+      "remaindingLoan": 12222152,
+      "formattedRemaindingLoan": "122 222 NOK"
+    },
+    "317": {
+      "id": "317",
+      "month": 317,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "356 NOK",
+      "remaindingLoan": 11944374,
+      "formattedRemaindingLoan": "119 444 NOK"
+    },
+    "318": {
+      "id": "318",
+      "month": 318,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "348 NOK",
+      "remaindingLoan": 11666596,
+      "formattedRemaindingLoan": "116 666 NOK"
+    },
+    "319": {
+      "id": "319",
+      "month": 319,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "340 NOK",
+      "remaindingLoan": 11388818,
+      "formattedRemaindingLoan": "113 888 NOK"
+    },
+    "320": {
+      "id": "320",
+      "month": 320,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "332 NOK",
+      "remaindingLoan": 11111040,
+      "formattedRemaindingLoan": "111 110 NOK"
+    },
+    "321": {
+      "id": "321",
+      "month": 321,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "324 NOK",
+      "remaindingLoan": 10833262,
+      "formattedRemaindingLoan": "108 333 NOK"
+    },
+    "322": {
+      "id": "322",
+      "month": 322,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "316 NOK",
+      "remaindingLoan": 10555484,
+      "formattedRemaindingLoan": "105 555 NOK"
+    },
+    "323": {
+      "id": "323",
+      "month": 323,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "308 NOK",
+      "remaindingLoan": 10277706,
+      "formattedRemaindingLoan": "102 777 NOK"
+    },
+    "324": {
+      "id": "324",
+      "month": 324,
+      "year": 26,
+      "deduction": "2 778 NOK",
+      "interest": "300 NOK",
+      "remaindingLoan": 9999928,
+      "formattedRemaindingLoan": "99 999 NOK"
+    },
+    "325": {
+      "id": "325",
+      "month": 325,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "292 NOK",
+      "remaindingLoan": 9722150,
+      "formattedRemaindingLoan": "97 222 NOK"
+    },
+    "326": {
+      "id": "326",
+      "month": 326,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "284 NOK",
+      "remaindingLoan": 9444372,
+      "formattedRemaindingLoan": "94 444 NOK"
+    },
+    "327": {
+      "id": "327",
+      "month": 327,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "275 NOK",
+      "remaindingLoan": 9166594,
+      "formattedRemaindingLoan": "91 666 NOK"
+    },
+    "328": {
+      "id": "328",
+      "month": 328,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "267 NOK",
+      "remaindingLoan": 8888816,
+      "formattedRemaindingLoan": "88 888 NOK"
+    },
+    "329": {
+      "id": "329",
+      "month": 329,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "259 NOK",
+      "remaindingLoan": 8611038,
+      "formattedRemaindingLoan": "86 110 NOK"
+    },
+    "330": {
+      "id": "330",
+      "month": 330,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "251 NOK",
+      "remaindingLoan": 8333260,
+      "formattedRemaindingLoan": "83 333 NOK"
+    },
+    "331": {
+      "id": "331",
+      "month": 331,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "243 NOK",
+      "remaindingLoan": 8055482,
+      "formattedRemaindingLoan": "80 555 NOK"
+    },
+    "332": {
+      "id": "332",
+      "month": 332,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "235 NOK",
+      "remaindingLoan": 7777704,
+      "formattedRemaindingLoan": "77 777 NOK"
+    },
+    "333": {
+      "id": "333",
+      "month": 333,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "227 NOK",
+      "remaindingLoan": 7499926,
+      "formattedRemaindingLoan": "74 999 NOK"
+    },
+    "334": {
+      "id": "334",
+      "month": 334,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "219 NOK",
+      "remaindingLoan": 7222148,
+      "formattedRemaindingLoan": "72 221 NOK"
+    },
+    "335": {
+      "id": "335",
+      "month": 335,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "211 NOK",
+      "remaindingLoan": 6944370,
+      "formattedRemaindingLoan": "69 444 NOK"
+    },
+    "336": {
+      "id": "336",
+      "month": 336,
+      "year": 27,
+      "deduction": "2 778 NOK",
+      "interest": "203 NOK",
+      "remaindingLoan": 6666592,
+      "formattedRemaindingLoan": "66 666 NOK"
+    },
+    "337": {
+      "id": "337",
+      "month": 337,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "194 NOK",
+      "remaindingLoan": 6388814,
+      "formattedRemaindingLoan": "63 888 NOK"
+    },
+    "338": {
+      "id": "338",
+      "month": 338,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "186 NOK",
+      "remaindingLoan": 6111036,
+      "formattedRemaindingLoan": "61 110 NOK"
+    },
+    "339": {
+      "id": "339",
+      "month": 339,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "178 NOK",
+      "remaindingLoan": 5833258,
+      "formattedRemaindingLoan": "58 333 NOK"
+    },
+    "340": {
+      "id": "340",
+      "month": 340,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "170 NOK",
+      "remaindingLoan": 5555480,
+      "formattedRemaindingLoan": "55 555 NOK"
+    },
+    "341": {
+      "id": "341",
+      "month": 341,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "162 NOK",
+      "remaindingLoan": 5277702,
+      "formattedRemaindingLoan": "52 777 NOK"
+    },
+    "342": {
+      "id": "342",
+      "month": 342,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "154 NOK",
+      "remaindingLoan": 4999924,
+      "formattedRemaindingLoan": "49 999 NOK"
+    },
+    "343": {
+      "id": "343",
+      "month": 343,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "146 NOK",
+      "remaindingLoan": 4722146,
+      "formattedRemaindingLoan": "47 221 NOK"
+    },
+    "344": {
+      "id": "344",
+      "month": 344,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "138 NOK",
+      "remaindingLoan": 4444368,
+      "formattedRemaindingLoan": "44 444 NOK"
+    },
+    "345": {
+      "id": "345",
+      "month": 345,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "130 NOK",
+      "remaindingLoan": 4166590,
+      "formattedRemaindingLoan": "41 666 NOK"
+    },
+    "346": {
+      "id": "346",
+      "month": 346,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "122 NOK",
+      "remaindingLoan": 3888812,
+      "formattedRemaindingLoan": "38 888 NOK"
+    },
+    "347": {
+      "id": "347",
+      "month": 347,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "113 NOK",
+      "remaindingLoan": 3611034,
+      "formattedRemaindingLoan": "36 110 NOK"
+    },
+    "348": {
+      "id": "348",
+      "month": 348,
+      "year": 28,
+      "deduction": "2 778 NOK",
+      "interest": "105 NOK",
+      "remaindingLoan": 3333256,
+      "formattedRemaindingLoan": "33 333 NOK"
+    },
+    "349": {
+      "id": "349",
+      "month": 349,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "97 NOK",
+      "remaindingLoan": 3055478,
+      "formattedRemaindingLoan": "30 555 NOK"
+    },
+    "350": {
+      "id": "350",
+      "month": 350,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "89 NOK",
+      "remaindingLoan": 2777700,
+      "formattedRemaindingLoan": "27 777 NOK"
+    },
+    "351": {
+      "id": "351",
+      "month": 351,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "81 NOK",
+      "remaindingLoan": 2499922,
+      "formattedRemaindingLoan": "24 999 NOK"
+    },
+    "352": {
+      "id": "352",
+      "month": 352,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "73 NOK",
+      "remaindingLoan": 2222144,
+      "formattedRemaindingLoan": "22 221 NOK"
+    },
+    "353": {
+      "id": "353",
+      "month": 353,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "65 NOK",
+      "remaindingLoan": 1944366,
+      "formattedRemaindingLoan": "19 444 NOK"
+    },
+    "354": {
+      "id": "354",
+      "month": 354,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "57 NOK",
+      "remaindingLoan": 1666588,
+      "formattedRemaindingLoan": "16 666 NOK"
+    },
+    "355": {
+      "id": "355",
+      "month": 355,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "49 NOK",
+      "remaindingLoan": 1388810,
+      "formattedRemaindingLoan": "13 888 NOK"
+    },
+    "356": {
+      "id": "356",
+      "month": 356,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "41 NOK",
+      "remaindingLoan": 1111032,
+      "formattedRemaindingLoan": "11 110 NOK"
+    },
+    "357": {
+      "id": "357",
+      "month": 357,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "32 NOK",
+      "remaindingLoan": 833254,
+      "formattedRemaindingLoan": "8 333 NOK"
+    },
+    "358": {
+      "id": "358",
+      "month": 358,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "24 NOK",
+      "remaindingLoan": 555476,
+      "formattedRemaindingLoan": "5 555 NOK"
+    },
+    "359": {
+      "id": "359",
+      "month": 359,
+      "year": 29,
+      "deduction": "2 778 NOK",
+      "interest": "16 NOK",
+      "remaindingLoan": 277698,
+      "formattedRemaindingLoan": "2 777 NOK"
+    },
+    "360": {
+      "id": "360",
+      "month": 360,
+      "year": 29,
+      "deduction": "2 777 NOK",
+      "interest": "8 NOK",
+      "remaindingLoan": 0,
+      "formattedRemaindingLoan": "0 NOK"
+    }
+  },
+  "cost": 52645791.45,
+  "formattedCost": "526 458"
+}

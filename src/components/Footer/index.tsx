@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, FooterNav, FooterNavItem, FooterLink } from './styles';
 
-const Footer: React.FC = () => {
+const Footer = () => {
   return (
     <>
       <Container>
