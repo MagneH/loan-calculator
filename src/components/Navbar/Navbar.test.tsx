@@ -4,6 +4,6 @@ import Navbar from './';
 
 test('Renders Navbar', () => {
   render(<Navbar />);
-  const linkElement = screen.getByText(/ Loan Calculator /);
+  const linkElement = screen.getByText(/Contact/i);
   expect(linkElement).toBeInTheDocument();
 });

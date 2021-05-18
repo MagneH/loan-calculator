@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Logo, Menu, MenuItem } from './styles';
 
-const Navbar: React.FC = () => {
+const Navbar = () => {
   return (
     <>
       <Container>
